@@ -9,7 +9,7 @@
 
 - 📫 Email me at: **mrblanconunes@gmail.com**
 
-- 📄 Resume Link: [https://drive.google.com/file/d/1cFS38mBO5muFNjEsfEXYbjvi5MgnWwzp/view?usp=drive_link](https://drive.google.com/file/d/1cFS38mBO5muFNjEsfEXYbjvi5MgnWwzp/view?usp=drive_link)
+- 📄 Resume Link: https://static1.squarespace.com/static/642b032e75688d63cf0060a4/t/654707801476114ca73ee0ef/1699153792363/Resume+-+Melanie+Ruth+Blanco.pdf
 <br>
 <p align="center">Hello reader! I am a student at Florida International University pursuing a degree in Computer Science with a minor in E-Marketing and Social Media. I am set to graduate in the Summer of 2024. My ambition is to become a Product Developer by leveraging my expertise in Front-end software engineering, web development, UX/UI, graphic design, and digital marketing.</p>
 <h3 align="left">Connect with me:</h3>
