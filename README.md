@@ -1,4 +1,4 @@
-<img align="right" alt="Coding Woman" width="400" src=https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif>
+<img align="right" alt="Coding Woman" width="400" src=[https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)>
 <br>
 <h1 align="center">Hi 👋, I'm Melanie</h1>
 <h3 align="center">A passionate Front-End Developer from Venezuela living in Miami.</h3>
