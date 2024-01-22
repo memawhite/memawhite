@@ -9,8 +9,10 @@
 
 - 📫 Email me at: **mrblanconunes@gmail.com**
 
-- 📄 Resume Link: https://static1.squarespace.com/static/642b032e75688d63cf0060a4/t/654707801476114ca73ee0ef/1699153792363/Resume+-+Melanie+Ruth+Blanco.pdf
-<br>
+<p>
+  - 📄 Resume Link: <a href="https://static1.squarespace.com/static/642b032e75688d63cf0060a4/t/654707801476114ca73ee0ef/1699153792363/Resume+-+Melanie+Ruth+Blanco.pdf" target="_blank">Melanie Ruth Blanco's Resume</a>
+</p>
+
 <p align="center">Hello there! 👋 I'm a Computer Science student at Florida International University, specializing in Front-end software engineering, web development, user research, and E-Marketing. Set to graduate in Summer 2024, I'm driven by my ambition to become a versatile Product Developer.</p>
 
 <p align="center"> Currently, I wear multiple hats as the Director of Marketing and Web Development 👩🏻‍💻 for Women in Computer Science at FIU. My role involves advocating for women in the industry, enhancing their skills, and fostering a supportive community. Additionally, I serve as a Junior Webmaster at the Engineering Center at FIU, contributing on the maintenance of WordPress sites.</p>
