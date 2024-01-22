@@ -10,7 +10,7 @@
 - 📫 Email me at: **mrblanconunes@gmail.com**
 
 <p>
-  - 📄 Resume Link: <a href="https://static1.squarespace.com/static/642b032e75688d63cf0060a4/t/654707801476114ca73ee0ef/1699153792363/Resume+-+Melanie+Ruth+Blanco.pdf" target="_blank">Melanie Ruth Blanco's Resume</a>
+<a href="https://static1.squarespace.com/static/642b032e75688d63cf0060a4/t/654707801476114ca73ee0ef/1699153792363/Resume+-+Melanie+Ruth+Blanco.pdf" target="_blank">📄 Resume Link </a>
 </p>
 
 <p align="center">Hello there! 👋 I'm a Computer Science student at Florida International University, specializing in Front-end software engineering, web development, user research, and E-Marketing. Set to graduate in Summer 2024, I'm driven by my ambition to become a versatile Product Developer.</p>
