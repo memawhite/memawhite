@@ -11,7 +11,10 @@
 
 - 📄 Resume Link: https://static1.squarespace.com/static/642b032e75688d63cf0060a4/t/654707801476114ca73ee0ef/1699153792363/Resume+-+Melanie+Ruth+Blanco.pdf
 <br>
-<p align="center">Hello reader! I am a student at Florida International University pursuing a degree in Computer Science with a minor in E-Marketing and Social Media. I am set to graduate in the Summer of 2024. My ambition is to become a Product Developer by leveraging my expertise in Front-end software engineering, web development, UX/UI, iOS Dev, user research, and digital marketing.</p>
+<p align="center">Hello there! 👋 I'm a Computer Science student at Florida International University, specializing in Front-end software engineering, web development, user research, and E-Marketing. Set to graduate in Summer 2024, I'm driven by my ambition to become a versatile Product Developer.
+
+Currently, I wear multiple hats as the Director of Marketing and Web Development 👩🏻‍💻 for Women in Computer Science at FIU. My role involves advocating for women in the industry, enhancing their skills, and fostering a supportive community. Additionally, I serve as a Junior Webmaster at the Engineering Center at FIU, contributing on the maintenance of WordPress sites.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/melanieruthblanco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melanieruthblanco/" height="30" width="40" /></a>
