@@ -7,7 +7,7 @@
   <p>🌱 I’m currently learning <strong>Product Management with Interaction Design Foundation Courses</strong></p>
   <p>👨‍💻 All of my projects are available at <a href="https://www.melanieinhtml.com/" target="_blank">https://www.melanieinhtml.com/</a></p>
   <p>📫 Email me at: <strong>mrblanconunes@gmail.com</strong></p>
-  <p><a href="https://static1.squarespace.com/static/642b032e75688d63cf0060a4/t/654707801476114ca73ee0ef/1699153792363/Resume+-+Melanie+Ruth+Blanco.pdf" target="_blank">📄 Resume Link</a></p>
+  <p><a href="https://orchid-hawk-hkll.squarespace.com/s/Resume-Melanie-Ruth-Blanco-a3he.pdf" target="_blank">📄 Resume Link</a></p>
 
   <p>Hello there! 👋 I'm a Computer Science student at Florida International University, specializing in Front-end software engineering, web development, user research, and E-Marketing. Set to graduate in Summer 2024, I'm driven by my ambition to become a versatile Product Developer.</p>
 
